@@ -5,7 +5,7 @@
  
   Here some visualization examples:
   
-  +##Треугольник Серпинского
+##+ Треугольник Серпинского
  ![there must be a fractal](https://github.com/Kyrylo-Kotelevets/Fractals-and-attractors/blob/master/examples/Треугольник_Серпинского.png)
  Ковёр Серпинского
  ![there must be a fractal](https://github.com/Kyrylo-Kotelevets/Fractals-and-attractors/blob/master/examples/Ковёр_Серпинского.png)
