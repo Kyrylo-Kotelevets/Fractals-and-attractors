@@ -1,11 +1,11 @@
 #!/usr/bin/python
 # -*-coding: utf-8-*-
 
-from PIL import Image, ImageDraw
+from PIL import Image, ImageDraw # pip install Pillow
 from math import pi, sin, cos, sqrt
 from random import randint, choice
 from point_2D import point
-import numpy as np
+import numpy as np # pip install numpy
 
 
 def interpolate(from_color: tuple, to_color: tuple, interval: int):
