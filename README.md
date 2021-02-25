@@ -5,11 +5,11 @@
  
   Here some visualization examples:
   
-  Треугольник Серпинского
- ![there must be a fractal](https://github.com/Kyrylo-Kotelevets/Fractals-and-attractors/blob/master/Треугольник_Серпинского.png)
- Ковёр Серпинского
- ![there must be a fractal](https://github.com/Kyrylo-Kotelevets/Fractals-and-attractors/blob/master/Ковёр_Серпинского.png)
- Папоротник Барнсли
- ![there must be a fractal](https://github.com/Kyrylo-Kotelevets/Fractals-and-attractors/blob/master/Папоротник_Барнсли.png)
- Пифагорово дерево
- ![there must be a fractal](https://github.com/Kyrylo-Kotelevets/Fractals-and-attractors/blob/master/Пифагорово_дерево.png)
+## Треугольник Серпинского
+ ![there must be a fractal](https://github.com/Kyrylo-Kotelevets/Fractals-and-attractors/blob/master/examples/Треугольник_Серпинского.png)
+## Ковёр Серпинского
+ ![there must be a fractal](https://github.com/Kyrylo-Kotelevets/Fractals-and-attractors/blob/master/examples/Ковёр_Серпинского.png)
+## Папоротник Барнсли
+ ![there must be a fractal](https://github.com/Kyrylo-Kotelevets/Fractals-and-attractors/blob/master/examples/Папоротник_Барнсли.png)
+## Пифагорово дерево
+ ![there must be a fractal](https://github.com/Kyrylo-Kotelevets/Fractals-and-attractors/blob/master/examples/Пифагорово_дерево.png)
